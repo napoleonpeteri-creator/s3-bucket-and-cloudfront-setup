@@ -37,7 +37,7 @@ SETTING UP S3 BUCKET WITH STATIC WEBSITE ENABLED
 19.Go to properties,copy "Bucket website endpoint"
 20.open new browser tab and paste your "Bucket website endpoint" to verify your configuration can be publicly viewed
 
-![STATIC-PUBLIC-ACCESS-SUCCESS.png](Images/STATIC-PUBLIC-ACCESS-SUCCESS.png)
+![STATIC-PUBLIC-ACCESS-SUCCESS.png](Images/STATIC-PUBLIC-ACCESS-SUCCESSFUL.png)
 
 SET UP CLOUDFRONT FOR S3 BUCKET
 1. Type CloudFront on the AWS search bar
